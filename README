@@ -1,8 +1,16 @@
-This basic mockup is my first attempt at making a game.
-It's written in Lua, and uses the L?ve game engine.
+This basic mockup is my first attempt at making a game. It's written in
+Lua, and uses the Love framework.
+
+It is playable, in the sence that you can navigate a character in the game,
+get artifacts that give you abilities and such, but there is no piont to it.
+No story, no enemies, nothing.
+
+To get started, you need to get the Love framework from love2d.org. Download
+this repo as a zip file, change the extension to ".love". If you need help
+on getting started, you can find that here:
+https://love2d.org/wiki/Getting_Started
 
 If you find it useful, feel free to use it.
-
 It is licenced under Creative Commons Attribution 3.0
 
 Avatar: Graphic work by Silveira Neto (silveiraneto.net), with some adaptions.
